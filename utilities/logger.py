@@ -7,7 +7,7 @@ import os
 class Logger():
     logs_folder = os.path.join('.', 'logs', '')
     file_name = f"{logs_folder}log_" \
-                + str(datetime.datetime.now().strftime("%d.%m.%Y_%H:%M:%S")) + ".log"
+                + str(datetime.datetime.now().strftime("%d.%m.%Y_%H.%M.%S")) + ".log"
 
     @classmethod
     def write_log_to_file(cls, data: str):

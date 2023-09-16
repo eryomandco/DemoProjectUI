@@ -30,7 +30,7 @@ class Base():
 
     def screenshot(self):
         screenshot_folder = os.path.join('.', 'screenshots', '')
-        current_time = datetime.datetime.now().strftime("%y-%m-%d_%H:%M:%S")
+        current_time = datetime.datetime.now().strftime("%y-%m-%d_%H.%M.%S")
         name_screenshot = str(current_time) + '.png'
         self.driver.save_screenshot(screenshot_folder + name_screenshot)
         print('Screenshot has done!')

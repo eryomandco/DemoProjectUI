@@ -25,7 +25,7 @@ Type skin checkbox has clicked
 Sort button has clicked
 Button to sort by ascending has clicked
 Product card of cologne has clicked
-First attempt is good
+Second attempt is good
 Value of test URL is correct!
 Screenshot has done!
 Current URL: https://bravo31.ru/catalog/_parfyumeriya/dlya_muzhchin_2/53197/
