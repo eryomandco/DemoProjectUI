@@ -19,7 +19,7 @@ This project uses **Python + POM + Selenium + Pytest + Allure** technologies.
 2. Authorization test with an incorrect login.
 3. Authorization test with an incorrect password.
 
-Priority of launch these test was changed
+Priority of launch these tests was changed
 
 **test_full_path_product.py** - includes a full business path test. Authorization, going to the Perfume page, going to the For Men page, using pre-filtering in the catalog, going to the Product page, adding the product to the Cart, going to the Place Order page, filling in the city field and deleting the product.
 
