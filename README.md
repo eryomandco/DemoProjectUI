@@ -28,7 +28,14 @@ All tests used verification methods - url compliance with expected, header compl
 ### **You can run tests in PyCharm terminal using the command:**
 > python3 -m pytest --alluredir=test_results/
 
+OR
+
+> python -m pytest --alluredir=test_results/
+
 test_results/ is the folder where allure reports are included. You may use your own directory
 
 ### **To run the tests you need to install packages with the command:**
 > pip install -r requirements.txt
+
+NOTICE:
+Your version of allure-pytest may be different
