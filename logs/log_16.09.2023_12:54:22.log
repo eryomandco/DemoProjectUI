@@ -1,0 +1,99 @@
+
+-----
+Test: tests/test_authorizations.py::test_wrong_login (call)
+Start time: 2023-09-16 12:54:30.282740
+Start name method: authorization_wrong_login
+
+End time: 2023-09-16 12:54:40.410308
+End name method: authorization_wrong_login
+URL: https://bravo31.ru/
+
+-----
+
+-----
+Test: tests/test_authorizations.py::test_wrong_password (call)
+Start time: 2023-09-16 12:54:44.778616
+Start name method: authorization_wrong_password
+
+End time: 2023-09-16 12:54:51.098855
+End name method: authorization_wrong_password
+URL: https://bravo31.ru/
+
+-----
+
+-----
+Test: tests/test_authorizations.py::test_correct_authorization_data (call)
+Start time: 2023-09-16 12:54:54.256447
+Start name method: authorization
+
+End time: 2023-09-16 12:55:02.076000
+End name method: authorization
+URL: https://bravo31.ru/
+
+-----
+
+-----
+Test: tests/test_full_path_product.py::test_full_path (call)
+Start time: 2023-09-16 12:55:05.619720
+Start name method: authorization
+
+End time: 2023-09-16 12:55:14.782517
+End name method: authorization
+URL: https://bravo31.ru/
+
+-----
+
+-----
+Test: tests/test_full_path_product.py::test_full_path (call)
+Start time: 2023-09-16 12:55:16.975883
+Start name method: go_to_page_for_men
+
+End time: 2023-09-16 12:55:19.496748
+End name method: go_to_page_for_men
+URL: https://bravo31.ru/catalog/_parfyumeriya/dlya_muzhchin_2/
+
+-----
+
+-----
+Test: tests/test_full_path_product.py::test_full_path (call)
+Start time: 2023-09-16 12:55:19.497338
+Start name method: sort_price_and_choose_product
+
+End time: 2023-09-16 12:55:26.843286
+End name method: sort_price_and_choose_product
+URL: https://bravo31.ru/catalog/_parfyumeriya/dlya_muzhchin_2/53197/
+
+-----
+
+-----
+Test: tests/test_full_path_product.py::test_full_path (call)
+Start time: 2023-09-16 12:55:26.843806
+Start name method: add_product_to_cart
+
+End time: 2023-09-16 12:55:29.039468
+End name method: add_product_to_cart
+URL: https://bravo31.ru/basket/
+
+-----
+
+-----
+Test: tests/test_full_path_product.py::test_full_path (call)
+Start time: 2023-09-16 12:55:29.040038
+Start name method: place_order
+
+End time: 2023-09-16 12:55:32.056823
+End name method: place_order
+URL: https://bravo31.ru/order/
+
+-----
+
+-----
+Test: tests/test_full_path_product.py::test_full_path (call)
+Start time: 2023-09-16 12:55:32.057497
+Start name method: place_and_remove_order
+
+End time: 2023-09-16 12:55:39.283476
+End name method: place_and_remove_order
+URL: https://bravo31.ru/basket/
+
+-----

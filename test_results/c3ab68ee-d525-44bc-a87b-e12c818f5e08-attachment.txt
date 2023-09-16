@@ -1,0 +1,12 @@
+before function
+
+START TEST
+Current URL: https://bravo31.ru/
+My cabinet button has clicked
+Login has entered in the field
+Password has entered in the field
+Enter button has clicked
+Value of test word is correct!
+Screenshot has done!
+after function
+Finish Test suit

@@ -1,0 +1,45 @@
+
+START TEST
+Current URL: https://bravo31.ru/
+My cabinet button has clicked
+Login has entered in the field
+Password has entered in the field
+Enter button has clicked
+Value of test word is correct!
+Screenshot has done!
+Perfume button has clicked
+Value of test URL is correct!
+Current URL: https://bravo31.ru/catalog/_parfyumeriya/
+Button FOR MEN has clicked
+Value of test URL is correct!
+Current URL: https://bravo31.ru/catalog/_parfyumeriya/dlya_muzhchin_2/
+Price button has clicked
+Left slider has clicked and moved to right
+Right slider has clicked and moved to left
+Brand button has clicked
+Brand checkbox has clicked
+Country button has clicked
+Country checkbox has clicked
+Type skin button has clicked
+Type skin checkbox has clicked
+Sort button has clicked
+Button to sort by ascending has clicked
+Product card of cologne has clicked
+First attempt is good
+Value of test URL is correct!
+Screenshot has done!
+Current URL: https://bravo31.ru/catalog/_parfyumeriya/dlya_muzhchin_2/53197/
+Value of test word is correct!
+Value of test URL is correct!
+Screenshot has done!
+Current URL: https://bravo31.ru/basket/
+Place order button has clicked
+Value of test URL is correct!
+Screenshot has done!
+Current URL: https://bravo31.ru/order/
+Cancel choice button has clicked
+Location field got: Белгород
+Location has chosen
+Cart has clicked
+Second attempt is good
+Remove order button has clicked
